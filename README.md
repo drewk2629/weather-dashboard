@@ -12,5 +12,8 @@
  jQuery<br>
  moment.js<br>
  
+ <h3> Deployed - https://drewk2629.github.io/weather-dashboard/ </h3>
+ <img width="951" alt="Screenshot 2022-03-07 195301" src="https://user-images.githubusercontent.com/94206317/157144115-be23f200-0a5a-43ac-a897-42eebe039191.png">
+
  
  
